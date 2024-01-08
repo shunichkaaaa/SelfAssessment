@@ -6,19 +6,19 @@
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection: 🙋 explained
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
   - node:module
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🖐️ used
+  - Dependencies: package.json and package lock: : 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -67,11 +67,11 @@
   - Inversion of control
   - Dependency injection
   - GRASP
-  - SOLID
+  - SOLID: 🙋 explained
   - GoF patterns
   - Distributed systems
   - Highload applications
-  - Clean architecture
+  - Clean architecture: 🎓 known
   - DDD
   - Message Queue
   - CQS
@@ -85,27 +85,27 @@
   - Leaking abstractions
 - Network
   - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
+  - Endpoint throttling: 👂 heard
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🎓 known
   - UDP
   - TLS
-  - Websocket
+  - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🎓 known
   - RPC
-  - Routing
+  - Routing: 🖐️ used
   - DoS
-  - DDoS
+  - DDoS: 🖐️ used
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - Fetch API
+  - DNS: 🎓 known
+  - Fetch API: 🖐️ used
   - IncomingMessage
-  - SQL injection
+  - SQL injection: 👂 heard
   - noDelay
   - keep-alive
   - ALPN
@@ -114,42 +114,42 @@
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
+  - Logging: 🖐️ used
+  - Application configuring: 🎓 known
+  - Testing: 👂 heard
   - CI/CD
-  - Readable
-  - Writable
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer: 👂 heard
+  - Console: 🖐️ used
   - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 🙋 explained
+  - Quality: 🙋 explained
+  - Availability: 🙋 explained
+  - Flexibility: 🙋 explained
 - Data access
   - Data access layer
-  - Repository
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error: 🖐️ used
+  - error.cause: 👂 heard
+  - error.code: 👂 heard
+  - error.message: 🖐️ used
+  - error.stack: 🖐️ used
   - How to avoid mixins
   - Error.captureStackTrace
-  - Uncaught exceptions
+  - Uncaught exceptions: 🙋 explained
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 🖐️ used
   - Flame graph
-  - Memory leaks
-  - Resource leaks
-  - Data race
+  - Memory leaks: 🎓 known
+  - Resource leaks: 🎓 known
+  - Data race: 🙋 explained
 - Integrations and bindings
   - Native addons
   - C and C++ addons
